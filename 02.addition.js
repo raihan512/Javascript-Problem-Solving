@@ -1,3 +1,4 @@
+// Write a program to find the sum of numbers from N to M.
 function addition(n, m) {
     let sum = 0;
     for (let i = n; i <= m; i++) {
